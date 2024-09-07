@@ -13,4 +13,4 @@
 ### [Конвертер изображений](#t)
 - Проект выкладки сервиса конвертера изображений
   - Стек: Ansible, Docker Swarm, Ubuntu, RabbitMQ, Nginx
-  - Репозиторий кода приложения: [код социальной сети](https://github.com/rudikrudik/converter-app)
+  - Репозиторий кода приложения: [код конвертера изображений](https://github.com/rudikrudik/converter-app)
