@@ -4,13 +4,13 @@
 
 ## Список проектов:
 
-### [Социальная сеть](https://github.com/rudikrudik/socialNetwork-devops) 
+### [Социальная сеть IaC](https://github.com/rudikrudik/socialNetwork-devops) 
 - Проект для изучения архитектурных паттернов Highload
   - Cтек: Ansibe, Docker, PostreSQL, Python, FastAP
   - Репозиторий кода приложения: [код социальной сети](https://github.com/rudikrudik/socialNetwork) 
 
 
-### [Конвертер изображений](#t)
+### [Конвертер изображений IaC](#t)
 - Проект выкладки сервиса конвертера изображений
   - Стек: Ansible, Docker Swarm, Ubuntu, RabbitMQ, Nginx
   - Репозиторий кода приложения: [код конвертера изображений](https://github.com/rudikrudik/converter-app)
