@@ -6,14 +6,14 @@
 
 ### [Социальная сеть IaC](https://github.com/rudikrudik/socialNetwork-devops) 
 - Проект для изучения архитектурных паттернов Highload
-  - Cтек: Ansibe, Docker, PostreSQL, Python, FastAP
+  - Cтек: Ansibe, Docker, PostreSQL, Python, FastAPI
   - Репозиторий кода приложения: [код социальной сети](https://github.com/rudikrudik/socialNetwork)
  
 
 ### [Сайт "Выбор фильма" IaC](https://github.com/rudikrudik/chooseMovie-devops)
 - Проект выкладки сервиса конвертера изображений
-  - Стек: Ansible, Docker, Ubuntu, Nginx, ReactJs, JS, 
-  - Репозиторий кода приложения: [код конвертера изображений](https://github.com/rudikrudik/chooseMovie)
+  - Стек: Ansible, Docker, Ubuntu, Nginx, ReactJs, JS
+  - Репозиторий сайта: [код Сайта "Выбор фильма"](https://github.com/rudikrudik/chooseMovie)
 
 
 ### [Конвертер изображений IaC](#t)
